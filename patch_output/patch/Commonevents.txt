@@ -16510,168 +16510,169 @@ NGだぞ～？
 > CONTEXT: Commonevents/648/12/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/648/20/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/648/28/Dialogue < UNTRANSLATED
-
+Um... um... rather than use the restroom, first...
 > END STRING
 
 > BEGIN STRING
 お手洗い・・・行って来ます・・・
 > CONTEXT: Commonevents/389/36/Dialogue < UNTRANSLATED
-
+I'm going... to the restroom...
 > END STRING
 
 > BEGIN STRING
 す、すみません・・・私、ちょっと・・・！
 > CONTEXT: Commonevents/389/44/Dialogue < UNTRANSLATED
-
+E-excuse me... I'm just... going!
 > END STRING
 
 > BEGIN STRING
 ごめんなさい、お手洗い・・・行きたいんですっ！
 > CONTEXT: Commonevents/389/52/Dialogue < UNTRANSLATED
-
+Sorry, I... need to use the restroom!
 > END STRING
 
 > BEGIN STRING
 くぅぅ・・・んっ！　あぁ・・・っ！
 > CONTEXT: Commonevents/389/60/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/648/62/Dialogue < UNTRANSLATED
-
+Kuu... nh! Aaa...ah!
 > END STRING
 
 > BEGIN STRING
 お、お手洗いですか？　いえ・・・大丈夫です・・・
 > CONTEXT: Commonevents/389/71/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/389/96/Dialogue < UNTRANSLATED
-
+B-bathroom? No... I'm okay...
 > END STRING
 
 > BEGIN STRING
 わ、私は大丈夫ですから・・・！
 > CONTEXT: Commonevents/389/78/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/389/103/Dialogue < UNTRANSLATED
-
+I-I'm okay, so...!
 > END STRING
 
 > BEGIN STRING
 今は・・・行きたくないから大丈夫です・・・
 > CONTEXT: Commonevents/389/85/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/389/110/Dialogue < UNTRANSLATED
-
+It's okay... I don't want to go right now...
 > END STRING
 
 > BEGIN STRING
 へ、平気です・・・！　大丈夫です・・・！
 > CONTEXT: Commonevents/389/122/Dialogue < UNTRANSLATED
-
+I-I'm fine...! I'm okay...!
 > END STRING
 
 > BEGIN STRING
 お手洗い・・・行きたくないですから・・・
 > CONTEXT: Commonevents/389/129/Dialogue < UNTRANSLATED
-
+I don't want to go... to the restroom, so...
 > END STRING
 
 > BEGIN STRING
 わ、私なら後で大丈夫です・・・
 > CONTEXT: Commonevents/389/136/Dialogue < UNTRANSLATED
-
+I, I can wait...
 > END STRING
 
 > BEGIN STRING
 え、えと・・・それじゃあ・・・ちょっと・・・
 > CONTEXT: Commonevents/389/146/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/389/173/Dialogue < UNTRANSLATED
-
+Umm... then... just a moment...
 > END STRING
 
 > BEGIN STRING
 あ、あの・・・お手洗い、行って来ますね・・・
 > CONTEXT: Commonevents/389/153/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/389/180/Dialogue < UNTRANSLATED
-
+Uh, umm... I'll just be in the restroom...
 > END STRING
 
 > BEGIN STRING
 ご、ごめんなさい・・・ちょっと行って来ます・・・
 > CONTEXT: Commonevents/389/160/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/389/187/Dialogue < UNTRANSLATED
-
+S-sorry... I'll be just a moment...
 > END STRING
 
 > BEGIN STRING
 ご、ごめんなさい・・・あの、ちょっといいですか？
 > CONTEXT: Commonevents/389/198/Dialogue < UNTRANSLATED
-
+S-sorry... umm, could you wait a minute?
 > END STRING
 
 > BEGIN STRING
 あの・・・お、お手洗いに・・・
 > CONTEXT: Commonevents/389/206/Dialogue < UNTRANSLATED
-
+Um... the r-restroom...
 > END STRING
 
 > BEGIN STRING
 す、すみません、ちょっとだけ待ってもらって
 いいですか・・・？
 > CONTEXT: Commonevents/389/213/Dialogue < UNTRANSLATED
-
+E-excuse me... could you just wait a minute,
+please...?
 > END STRING
 
 > BEGIN STRING
 あの、その・・・っ、ごめんなさい・・・っ！
 > CONTEXT: Commonevents/389/226/Dialogue < UNTRANSLATED
-
+Umm, uhh... I'm sorry... nh!
 > END STRING
 
 > BEGIN STRING
 わ、私・・・っ、ちょっとお手洗いに・・・っ！
 > CONTEXT: Commonevents/389/234/Dialogue < UNTRANSLATED
-
+I'm, I'm... going to the restroom...!
 > END STRING
 
 > BEGIN STRING
 す、すみません・・・っ、少しだけ時間をください
 ・・・っ！
 > CONTEXT: Commonevents/389/242/Dialogue < UNTRANSLATED
-
+E-excuse me... I just need a moment...!
 > END STRING
 
 > BEGIN STRING
 お、お、お手洗い・・・っ！　ごめんなさいっ！
 > CONTEXT: Commonevents/389/255/Dialogue < UNTRANSLATED
-
+B-ba-bathroom...! Sorry!
 > END STRING
 
 > BEGIN STRING
 ぁ・・・は、はやく・・・っ！
 > CONTEXT: Commonevents/389/263/Dialogue < UNTRANSLATED
-
+Ah... qui-quickly...!
 > END STRING
 
 > BEGIN STRING
 あの、あのっ！　お手洗いに・・・い、行って
 きますっ！
 > CONTEXT: Commonevents/389/271/Dialogue < UNTRANSLATED
-
+Um, um! I'm... going to the b-bathroom!
 > END STRING
 
 > BEGIN STRING
 あぁ、あ・・・っ、ぁぁ・・・！
 > CONTEXT: Commonevents/389/284/Dialogue < UNTRANSLATED
-
+Aaaa-aah... aaa...!
 > END STRING
 
 > BEGIN STRING
 （だめ・・・っ、もうだめぇ・・・っ！！　でちゃうぅ！）
 > CONTEXT: Commonevents/389/292/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/648/136/Dialogue < UNTRANSLATED
-
+(No... it's no good...!! It's coming out!)
 > END STRING
 
 > BEGIN STRING
 んぅっ！　ふ・・・ぁ・・・んっ！！
 > CONTEXT: Commonevents/389/300/Dialogue < UNTRANSLATED
-
+Nnh! Fu... ah... nnn!!
 > END STRING
 
 > BEGIN STRING
@@ -16680,7 +16681,7 @@ NGだぞ～？
 > CONTEXT: Commonevents/390/136/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/390/214/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/390/308/Dialogue < UNTRANSLATED
-
+I... I'm sorry...
 > END STRING
 
 > BEGIN STRING
@@ -16691,69 +16692,69 @@ NGだぞ～？
 > CONTEXT: Commonevents/736/218/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/736/311/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/736/407/Dialogue < UNTRANSLATED
-
+T-thanks for waiting...
 > END STRING
 
 > BEGIN STRING
 お、終わりました・・・
 > CONTEXT: Commonevents/390/70/Dialogue < UNTRANSLATED
-
+I-I'm done...
 > END STRING
 
 > BEGIN STRING
 す、すみませんでした・・・
 > CONTEXT: Commonevents/390/76/Dialogue < UNTRANSLATED
-
+S-sorry for the wait...
 > END STRING
 
 > BEGIN STRING
 えっと・・・お、終わりました・・・
 > CONTEXT: Commonevents/390/142/Dialogue < UNTRANSLATED
-
+Umm... I'm d-done...
 > END STRING
 
 > BEGIN STRING
 も、もう大丈夫です・・・。　ごめんなさい・・・
 > CONTEXT: Commonevents/390/148/Dialogue < UNTRANSLATED
-
+I-I'm fine now... sorry...
 > END STRING
 
 > BEGIN STRING
 き、き、聞こえて・・・なかったですよね・・・？
 > CONTEXT: Commonevents/390/154/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/390/237/Dialogue < UNTRANSLATED
-
+Y-you didn't hear... right...?
 > END STRING
 
 > BEGIN STRING
 お、お待たせしました・・・！
 > CONTEXT: Commonevents/390/222/Dialogue < UNTRANSLATED
-
+Th-thank you for waiting...!
 > END STRING
 
 > BEGIN STRING
 あの、その、すみませんでした・・・！
 > CONTEXT: Commonevents/390/230/Dialogue < UNTRANSLATED
-
+Um, that is... I'm sorry...!
 > END STRING
 
 > BEGIN STRING
 はぁ・・・もうだめかと思いました・・・
 > CONTEXT: Commonevents/390/316/Dialogue < UNTRANSLATED
-
+Haah... I thought I'd lose it...
 > END STRING
 
 > BEGIN STRING
 あ、ありがとうございます。　なんとか・・・その
 ・・・間に合いました・・・////
 > CONTEXT: Commonevents/390/323/Dialogue < UNTRANSLATED
-
+Th-thank you. Somehow... um... I made it... ////
 > END STRING
 
 > BEGIN STRING
 すみません、み、見苦しいところを・・・っ！
 > CONTEXT: Commonevents/390/332/Dialogue < UNTRANSLATED
-
+P-pardon... my u-unsightliness...!
 > END STRING
 
 > BEGIN STRING
@@ -21214,269 +21215,275 @@ HPを減らすことはできても、トドメを刺すことは
 > CONTEXT: Commonevents/735/5/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/735/15/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/735/25/Dialogue < UNTRANSLATED
-
+I'd like to wash my clothes first if I could... /////
 > END STRING
 
 > BEGIN STRING
 で、では・・・お言葉に甘えて・・・
 > CONTEXT: Commonevents/735/34/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/735/41/Dialogue < UNTRANSLATED
-
+I-in that case... I'll take you up on that offer...
 > END STRING
 
 > BEGIN STRING
 すみません、ちょ、ちょっとトイレに・・・////
 > CONTEXT: Commonevents/735/49/Dialogue < UNTRANSLATED
-
+Excuse me, I-I'm just going to the toilet... ////
 > END STRING
 
 > BEGIN STRING
 ト、トイレに行かせてください・・・っ////
 > CONTEXT: Commonevents/735/57/Dialogue < UNTRANSLATED
-
+P-please let me go to the bathroom...! ////
 > END STRING
 
 > BEGIN STRING
 も、も、も・・・もれ・・・ちゃうぅ・・・っ！！
 > CONTEXT: Commonevents/735/64/Dialogue < UNTRANSLATED
-
+I-I-I'm... going to... wet myseeelf...!!
 > END STRING
 
 > BEGIN STRING
 あ、トイレなら大丈夫です。
 > CONTEXT: Commonevents/735/76/Dialogue < UNTRANSLATED
-
+Ah, I'm fine, thank you.
 > END STRING
 
 > BEGIN STRING
 今は行きたくなので、けっこうですよ。
 > CONTEXT: Commonevents/735/84/Dialogue < UNTRANSLATED
-
+That's alright, I don't need to go right now.
 > END STRING
 
 > BEGIN STRING
 私は大丈夫なので、他の方を優先してください。
 > CONTEXT: Commonevents/735/92/Dialogue < UNTRANSLATED
-
+I'm quite alright, so please ask the others first.
 > END STRING
 
 > BEGIN STRING
 （念のため、今のうちに済ませておこうかな・・・）
 > CONTEXT: Commonevents/735/104/Dialogue < UNTRANSLATED
-
+(Perhaps I'll take care of it now, just in
+case...)
 > END STRING
 
 > BEGIN STRING
 すみません、気を使っていただいて・・・
 > CONTEXT: Commonevents/735/112/Dialogue < UNTRANSLATED
-
+Thank you for your thoughtfulness...
 > END STRING
 
 > BEGIN STRING
 長旅になりそうですからね。　行っておきます。
 > CONTEXT: Commonevents/735/120/Dialogue < UNTRANSLATED
-
+We have a long road ahead, don't we? I'll
+go ahead.
 > END STRING
 
 > BEGIN STRING
 あ、ちょっと行ってきます・・・///
 > CONTEXT: Commonevents/735/132/Dialogue < UNTRANSLATED
-
+Ah, I'll be back in just a moment... ///
 > END STRING
 
 > BEGIN STRING
 では、少し待っててくださいね。
 > CONTEXT: Commonevents/735/140/Dialogue < UNTRANSLATED
-
+Well then, please wait right here for a minute.
 > END STRING
 
 > BEGIN STRING
 （トイレ・・・一応行っておこうかな。）
 > CONTEXT: Commonevents/735/148/Dialogue < UNTRANSLATED
-
+(I suppose... I'll go to the toilet.)
 > END STRING
 
 > BEGIN STRING
 あ、私・・・ちょっとトイレに・・・
 > CONTEXT: Commonevents/735/160/Dialogue < UNTRANSLATED
-
+Um, I'm just... going to the toilet...
 > END STRING
 
 > BEGIN STRING
 あ、あの・・・ちょっといいですか・・・？
 > CONTEXT: Commonevents/735/168/Dialogue < UNTRANSLATED
-
+E-excuse me... would you give me a moment?
 > END STRING
 
 > BEGIN STRING
 ええと、その・・・ちょっと失礼します////
 > CONTEXT: Commonevents/735/176/Dialogue < UNTRANSLATED
-
+Ummm, so... please excuse me. ////
 > END STRING
 
 > BEGIN STRING
 （よ、よかった・・・ちょっと我慢してんだ・・・）
 > CONTEXT: Commonevents/735/189/Dialogue < UNTRANSLATED
-
+(Th-thank goodness... I was holding it for
+a bit...)
 > END STRING
 
 > BEGIN STRING
 ごめんなさい、あの・・・トイレ行ってきて
 いいですか？
 > CONTEXT: Commonevents/735/198/Dialogue < UNTRANSLATED
-
+Sorry, um... is it okay if I go to the bathroom?
 > END STRING
 
 > BEGIN STRING
 すみません、トイレに行かせてください・・・////
 > CONTEXT: Commonevents/735/206/Dialogue < UNTRANSLATED
-
+Excuse me, please let me visit the
+bathroom... ////
 > END STRING
 
 > BEGIN STRING
 あ！　わ、私、その・・・トイレに・・・っ////
 > CONTEXT: Commonevents/735/218/Dialogue < UNTRANSLATED
-
+Ah! I-I, um... bathroom...! ////
 > END STRING
 
 > BEGIN STRING
 ト、トイレ・・・い、行ってきますっ////
 > CONTEXT: Commonevents/735/226/Dialogue < UNTRANSLATED
-
+I-I'm... g-going to the toilet. ////
 > END STRING
 
 > BEGIN STRING
 （ああ、よかった・・・助かったぁ////）
 > CONTEXT: Commonevents/735/234/Dialogue < UNTRANSLATED
-
+(Ahh, thank goodness... I'm saved! ////)
 > END STRING
 
 > BEGIN STRING
 ご、ご、ごめんなさい、トイレに・・・トイレにぃっ！
 > CONTEXT: Commonevents/735/246/Dialogue < UNTRANSLATED
-
+S-s-sorry, toilet... toilet!
 > END STRING
 
 > BEGIN STRING
 その、あの、わ、私・・・っ
 が、我慢してたんです・・・っ////
 > CONTEXT: Commonevents/735/254/Dialogue < UNTRANSLATED
-
+Umm, uhhm, I, I...
+I'm de-desperate! ////
 > END STRING
 
 > BEGIN STRING
 （ぁぁあ、も、もっ、もれるぅ・・・っ！！）
 > CONTEXT: Commonevents/735/263/Dialogue < UNTRANSLATED
-
+(Aaah, I'm g-go-going to leak...!!)
 > END STRING
 
 > BEGIN STRING
 で、出ちゃう・・・出ちゃいますぅぅっ！！！
 > CONTEXT: Commonevents/735/275/Dialogue < UNTRANSLATED
-
+I-it's... it's coming oooout!!!
 > END STRING
 
 > BEGIN STRING
 ああぁっ、だめ、も、もれ・・・もれちゃうぅっ！！
 > CONTEXT: Commonevents/735/283/Dialogue < UNTRANSLATED
-
+Aaahh, oh no... I-I'm going to wet myseeelf!!
 > END STRING
 
 > BEGIN STRING
 あと、すこし・・・がまん・・・がま、ん・・・っ/////
 > CONTEXT: Commonevents/735/290/Dialogue < UNTRANSLATED
-
+Ju-just a little longer... Hold it... Hold... it...! /////
 > END STRING
 
 > BEGIN STRING
 では、行きましょうか。
 > CONTEXT: Commonevents/736/64/Dialogue < UNTRANSLATED
-
+Well then, shall we?
 > END STRING
 
 > BEGIN STRING
 すみませんでした・・・
 > CONTEXT: Commonevents/736/72/Dialogue < UNTRANSLATED
-
+My apologies...
 > END STRING
 
 > BEGIN STRING
 お待たせしました。
 > CONTEXT: Commonevents/736/78/Dialogue < UNTRANSLATED
-
+I'm back.
 > END STRING
 
 > BEGIN STRING
 も、もう大丈夫です・・・////
 > CONTEXT: Commonevents/736/146/Dialogue < UNTRANSLATED
-
+I-I'm alright now... ////
 > END STRING
 
 > BEGIN STRING
 （すっきりしました・・・♪）
 > CONTEXT: Commonevents/736/152/Dialogue < UNTRANSLATED
-
+(Much better... ♪)
 > END STRING
 
 > BEGIN STRING
 お、お待たせしました////
 > CONTEXT: Commonevents/736/158/Dialogue < UNTRANSLATED
-
+Th-thank you for waiting. ////
 > END STRING
 
 > BEGIN STRING
 すみません、ご迷惑を・・・////
 > CONTEXT: Commonevents/736/226/Dialogue < UNTRANSLATED
-
+Sorry to trouble you... ////
 > END STRING
 
 > BEGIN STRING
 （はぁ・・・すっきりした・・・////）
 > CONTEXT: Commonevents/736/232/Dialogue < UNTRANSLATED
-
+(Haah... all better... ////)
 > END STRING
 
 > BEGIN STRING
 あ、あの・・・お待たせしてすみません////
 > CONTEXT: Commonevents/736/240/Dialogue < UNTRANSLATED
-
+Uh, um... apologies for the wait. ////
 > END STRING
 
 > BEGIN STRING
 ・・・・・・//////っ　あ、大丈夫でした・・・っ
 > CONTEXT: Commonevents/736/320/Dialogue < UNTRANSLATED
-
+......////// Oh, I'm alright...
 > END STRING
 
 > BEGIN STRING
 （ふう・・・もうダメかと思った・・・）
 > CONTEXT: Commonevents/736/327/Dialogue < UNTRANSLATED
-
+(Fuu... I thought I would lose it...)
 > END STRING
 
 > BEGIN STRING
 な、なんとか間に合いました・・・えへへ////
 > CONTEXT: Commonevents/736/336/Dialogue < UNTRANSLATED
-
+I, I made it, somehow... ehehe. ////
 > END STRING
 
 > BEGIN STRING
 い、一時はどうなるかと・・・/////
 > CONTEXT: Commonevents/736/414/Dialogue < UNTRANSLATED
-
+F-for a moment there, I thought I might... /////
 > END STRING
 
 > BEGIN STRING
 （あぁぁ・・・すっきりしたぁ・・・♪）
 > CONTEXT: Commonevents/736/421/Dialogue < UNTRANSLATED
-
+(Aaaah.... I'm so relieved... ♪)
 > END STRING
 
 > BEGIN STRING
 ちゃ、ちゃんと間に合いました！　ち、ち、
 ちびったりなんかしてませんよ・・・っ/////
 > CONTEXT: Commonevents/736/428/Dialogue < UNTRANSLATED
-
+I-I made it just fine! I definitely didn't l-le-leak, or
+anything... /////
 > END STRING
 
 > BEGIN STRING
