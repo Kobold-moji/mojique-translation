@@ -471,25 +471,25 @@
 > CONTEXT: Commonevents/143/214/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/143/304/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/143/393/Dialogue < UNTRANSLATED
-
+Le... let's go...
 > END STRING
 
 > BEGIN STRING
 お待たせー。
 > CONTEXT: Commonevents/143/63/Dialogue < UNTRANSLATED
-
+I'm baaack!
 > END STRING
 
 > BEGIN STRING
 んじゃ、行こっか。
 > CONTEXT: Commonevents/143/69/Dialogue < UNTRANSLATED
-
+Alright, let's go.
 > END STRING
 
 > BEGIN STRING
 待たせてごめんね。
 > CONTEXT: Commonevents/143/76/Dialogue < UNTRANSLATED
-
+Sorry for the wait.
 > END STRING
 
 > BEGIN STRING
@@ -500,73 +500,73 @@
 > CONTEXT: Commonevents/320/225/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/320/314/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/320/406/Dialogue < UNTRANSLATED
-
+There, all done~.
 > END STRING
 
 > BEGIN STRING
 ふう・・・すっきりした。
 > CONTEXT: Commonevents/143/148/Dialogue < UNTRANSLATED
-
+Fuu... much better.
 > END STRING
 
 > BEGIN STRING
 お待たせ。　えへへ・・・
 > CONTEXT: Commonevents/143/154/Dialogue < UNTRANSLATED
-
+Kept you waiting. Ehehe...
 > END STRING
 
 > BEGIN STRING
 はー、助かったぁ・・・！
 > CONTEXT: Commonevents/143/220/Dialogue < UNTRANSLATED
-
+Haah, I'm saved...!
 > END STRING
 
 > BEGIN STRING
 あー、すっきり！
 > CONTEXT: Commonevents/143/226/Dialogue < UNTRANSLATED
-
+Aaah, so much better!
 > END STRING
 
 > BEGIN STRING
 えへへ・・・は、恥ずかしいとこ見られちゃった。
 > CONTEXT: Commonevents/143/233/Dialogue < UNTRANSLATED
-
+Ehehe... y-you saw something embarrassing.
 > END STRING
 
 > BEGIN STRING
 あぁ・・・すっきりしたぁ！
 > CONTEXT: Commonevents/143/310/Dialogue < UNTRANSLATED
-
+Aah... I'm totally relieved!
 > END STRING
 
 > BEGIN STRING
 ふー、危なかったぁ・・・
 > CONTEXT: Commonevents/143/316/Dialogue < UNTRANSLATED
-
+Fuu, that was close...
 > END STRING
 
 > BEGIN STRING
 お・・・お待たせ・・・////
 > CONTEXT: Commonevents/143/322/Dialogue < UNTRANSLATED
-
+Th... thanks for waiting... ////
 > END STRING
 
 > BEGIN STRING
 はぁー・・・もうダメかと思ったよ～・・・
 > CONTEXT: Commonevents/143/400/Dialogue < UNTRANSLATED
-
+Haaah... I thought it was all over~...
 > END STRING
 
 > BEGIN STRING
 えっと・・・お、お待たせ・・・////
 > CONTEXT: Commonevents/143/407/Dialogue < UNTRANSLATED
-
+Umm... s-sorry for the wait... ////
 > END STRING
 
 > BEGIN STRING
 （はぁ・・・あと少しでもれちゃうトコだったよ・・・）
 > CONTEXT: Commonevents/143/413/Dialogue < UNTRANSLATED
-
+(Haah... I was so close to wetting myself...)
 > END STRING
 
 > BEGIN STRING
@@ -14646,193 +14646,197 @@ NGだぞ～？
 ・・・
 > CONTEXT: Commonevents/207/4/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/207/13/Dialogue < UNTRANSLATED
-
+I don't need to go... I wanna get changed, and quick...
 > END STRING
 
 > BEGIN STRING
 今はおトイレよりも・・・服をなんとかしたいん
 だけど・・・
 > CONTEXT: Commonevents/207/22/Dialogue < UNTRANSLATED
-
+Rather than use the bathroom... I want to do
+something about my clothes...
 > END STRING
 
 > BEGIN STRING
 着替える前に、ちょっとおトイレ済ませて
 来るね・・・
 > CONTEXT: Commonevents/207/31/Dialogue < UNTRANSLATED
-
+Before I get changed, let me just use the
+toilet first...
 > END STRING
 
 > BEGIN STRING
 ごめん、ちょっとおトイレ・・・
 > CONTEXT: Commonevents/207/39/Dialogue < UNTRANSLATED
-
+Sorry, just gonna go...
 > END STRING
 
 > BEGIN STRING
 お、おトイレさせて・・・！
 > CONTEXT: Commonevents/207/48/Dialogue < UNTRANSLATED
-
+L-let me use the toilet...!
 > END STRING
 
 > BEGIN STRING
 ごめん、さ、先におトイレ行かせてっ！
 > CONTEXT: Commonevents/207/56/Dialogue < UNTRANSLATED
-
+Sorry, l-let me go to the toilet...!
 > END STRING
 
 > BEGIN STRING
 うぅ・・・っ、お、おトイレぇっ！！
 > CONTEXT: Commonevents/207/64/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/644/69/Dialogue < UNTRANSLATED
-
+Uu... uh, b-bathrooom!!
 > END STRING
 
 > BEGIN STRING
 え？　おトイレは別に大丈夫だよ。
 > CONTEXT: Commonevents/207/75/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/644/79/Dialogue < UNTRANSLATED
-
+Eh? I don't really need the bathroom.
 > END STRING
 
 > BEGIN STRING
 今は行きたくないから、平気だよ。
 > CONTEXT: Commonevents/207/81/Dialogue < UNTRANSLATED
-
+It's okay, I don't want to go right now.
 > END STRING
 
 > BEGIN STRING
 わたしなら全然平気だから、心配しないで。
 > CONTEXT: Commonevents/207/88/Dialogue < UNTRANSLATED
-
+Don't worry about me, I'm totally fine.
 > END STRING
 
 > BEGIN STRING
 別に行きたくないけど・・・
 一応行っておこうかな。
 > CONTEXT: Commonevents/207/99/Dialogue < UNTRANSLATED
-
+I don't really need to go...
+I guess I'll go anyway.
 > END STRING
 
 > BEGIN STRING
 念のためおトイレ済ませておくね。
 > CONTEXT: Commonevents/207/107/Dialogue < UNTRANSLATED
-
+I'm gonna use the bathroom, just in case.
 > END STRING
 
 > BEGIN STRING
 そうだね。　今のうちに行っておこうかな・・・
 > CONTEXT: Commonevents/207/114/Dialogue < UNTRANSLATED
-
+Yeah, okay. I might as well go, as I'm here...
 > END STRING
 
 > BEGIN STRING
 あ、わたしちょっとおトイレ行って来るね。
 > CONTEXT: Commonevents/207/125/Dialogue < UNTRANSLATED
-
+Oh, I'm just gonna go to the bathroom, okay?
 > END STRING
 
 > BEGIN STRING
 おトイレ行って来るから、ちょっと待っててね。
 > CONTEXT: Commonevents/207/132/Dialogue < UNTRANSLATED
-
+I'm just gonna go to the bathroom. Wait here a
+moment, okay?
 > END STRING
 
 > BEGIN STRING
 ちょっとおトイレ済ませておくね。
 > CONTEXT: Commonevents/207/139/Dialogue < UNTRANSLATED
-
+I'm just going to visit the toilet for a sec.
 > END STRING
 
 > BEGIN STRING
 わたし、ちょっとおトイレ・・・
 > CONTEXT: Commonevents/207/150/Dialogue < UNTRANSLATED
-
+Just a minute. Bathroom...
 > END STRING
 
 > BEGIN STRING
 ごめん、おトイレ行って来るね・・・
 > CONTEXT: Commonevents/207/157/Dialogue < UNTRANSLATED
-
+Sorry, just gonna use the bathroom...
 > END STRING
 
 > BEGIN STRING
 あの、ちょっと待っててね・・・
 > CONTEXT: Commonevents/207/164/Dialogue < UNTRANSLATED
-
+Um, wait here a second!
 > END STRING
 
 > BEGIN STRING
 おトイレ、おトイレ・・・！
 > CONTEXT: Commonevents/207/175/Dialogue < UNTRANSLATED
-
+Toilet, toilet...!
 > END STRING
 
 > BEGIN STRING
 お、おトイレ行くから、ちょっと待ってて！
 > CONTEXT: Commonevents/207/182/Dialogue < UNTRANSLATED
-
+I-I'm just going to the toilet, so wait here a sec!
 > END STRING
 
 > BEGIN STRING
 ほっ・・・間に合った・・・
 > CONTEXT: Commonevents/207/189/Dialogue < UNTRANSLATED
-
+Hoh... made it...
 > END STRING
 
 > BEGIN STRING
 わ、わたしっ、おトイレっ！！
 > CONTEXT: Commonevents/207/201/Dialogue < UNTRANSLATED
-
+I-I'm going to the toilet!!
 > END STRING
 
 > BEGIN STRING
 おトイレ行きたいの・・・っ！　待ってて！！
 > CONTEXT: Commonevents/207/209/Dialogue < UNTRANSLATED
-
+I wanna use the toilet...! Wait here!!
 > END STRING
 
 > BEGIN STRING
 （うぅ・・・っ　おトイレ、もうちょっと・・・っ！）
 > CONTEXT: Commonevents/207/217/Dialogue < UNTRANSLATED
-
+(Uu... bathroom, almost there...!)
 > END STRING
 
 > BEGIN STRING
 おトイレっ！　おトイレっ！！
 > CONTEXT: Commonevents/207/229/Dialogue < UNTRANSLATED
-
+Toilet! Toilet!!
 > END STRING
 
 > BEGIN STRING
 ご、ごめんっ！　我慢できないのっ！！
 > CONTEXT: Commonevents/207/237/Dialogue < UNTRANSLATED
-
+S-sorry! I can't hold it!!
 > END STRING
 
 > BEGIN STRING
 やっと・・・っ　おトイレっ！！
 > CONTEXT: Commonevents/207/245/Dialogue < UNTRANSLATED
-
+Finally... toilet!!
 > END STRING
 
 > BEGIN STRING
 あ、あ、あ・・・っ！
 > CONTEXT: Commonevents/207/257/Dialogue < UNTRANSLATED
-
+Aah, aah, aah...!
 > END STRING
 
 > BEGIN STRING
 も、も、もれちゃぅっ！！
 > CONTEXT: Commonevents/207/265/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/644/148/Dialogue < UNTRANSLATED
-
+I-I-I'm gonna leak!!
 > END STRING
 
 > BEGIN STRING
 出ちゃうっ！　は、早くぅ・・・っ！！
 > CONTEXT: Commonevents/207/273/Dialogue < UNTRANSLATED
-
+It's coming out! Hu-hurryyy!
 > END STRING
 
 > BEGIN STRING
@@ -15823,283 +15827,286 @@ NGだぞ～？
 > BEGIN STRING
 トイレより、この服装をどうにかしたいな～・・・
 > CONTEXT: Commonevents/319/3/Dialogue < UNTRANSLATED
-
+I wanna do something about these clothes,
+first~...
 > END STRING
 
 > BEGIN STRING
 先に着替えたい・・・かも。
 > CONTEXT: Commonevents/319/10/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/647/10/Dialogue < UNTRANSLATED
-
+I wanna change clothes first... I think.
 > END STRING
 
 > BEGIN STRING
 ・・・トイレ行くね。
 > CONTEXT: Commonevents/319/17/Dialogue < UNTRANSLATED
-
+...Gonna use the toilet, 'kay?
 > END STRING
 
 > BEGIN STRING
 ごめん、先にトイレ行かせて・・・！
 > CONTEXT: Commonevents/319/23/Dialogue < UNTRANSLATED
-
+Sorry, lemme go use the toilet...!
 > END STRING
 
 > BEGIN STRING
 ま、またしたくなっちゃった・・・
 > CONTEXT: Commonevents/319/30/Dialogue < UNTRANSLATED
-
+I, I gotta go again...
 > END STRING
 
 > BEGIN STRING
 ト、トイレ行きたい・・・っ！　先にオシッコさせて
 ・・・！
 > CONTEXT: Commonevents/319/38/Dialogue < UNTRANSLATED
-
+I w-wanna go to the toilet...! Let me go pee...!
 > END STRING
 
 > BEGIN STRING
 オ、オシッコしてくるっ！　待ってて！！
 > CONTEXT: Commonevents/319/47/Dialogue < UNTRANSLATED
-
+I'm gonna go p-pee! Wait up!!
 > END STRING
 
 > BEGIN STRING
 も、もれ・・・もれちゃうぅっ！！
 > CONTEXT: Commonevents/319/55/Dialogue < UNTRANSLATED
-
+I'm g-gonna p... pee myseeelf!!
 > END STRING
 
 > BEGIN STRING
 え？　トイレ？　行きたくないよ～！
 > CONTEXT: Commonevents/319/66/Dialogue < UNTRANSLATED
-
+Ehh? Toilet? I'm good~!
 > END STRING
 
 > BEGIN STRING
 ぜんぜん行きたくないから、あとでいいよ。
 > CONTEXT: Commonevents/319/73/Dialogue < UNTRANSLATED
-
+I don't need to go at all, I'll wait 'til later.
 > END STRING
 
 > BEGIN STRING
 今はしたくないから平気だよ～！
 > CONTEXT: Commonevents/319/79/Dialogue < UNTRANSLATED
-
+It's okay, I don't wanna go right now~!
 > END STRING
 
 > BEGIN STRING
 んじゃ、一応しとくね～。
 > CONTEXT: Commonevents/319/90/Dialogue < UNTRANSLATED
-
+Okay, guess I'll go~.
 > END STRING
 
 > BEGIN STRING
 ま、今のうちに出しておくのもアリだね。
 > CONTEXT: Commonevents/319/97/Dialogue < UNTRANSLATED
-
+Well, I guess I could go pee while I'm here.
 > END STRING
 
 > BEGIN STRING
 のぞいちゃダメだぞ～？
 > CONTEXT: Commonevents/319/103/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/319/127/Dialogue < UNTRANSLATED
-
+No peeking, okay~?
 > END STRING
 
 > BEGIN STRING
 あ！　あたしトイレ行ってくるね。
 > CONTEXT: Commonevents/319/114/Dialogue < UNTRANSLATED
-
+Ah! I'm gonna use the toilet quick, okay?
 > END STRING
 
 > BEGIN STRING
 ごめん、ちょっとトイレタイムね。
 > CONTEXT: Commonevents/319/121/Dialogue < UNTRANSLATED
-
+Just a sec, it's toilet time, 'kay?
 > END STRING
 
 > BEGIN STRING
 よかった～。　実はちょっとガマンしてたん
 だよね。
 > CONTEXT: Commonevents/319/138/Dialogue < UNTRANSLATED
-
+Thank goodness~. I've actually kinda been
+holding it in for a while.
 > END STRING
 
 > BEGIN STRING
 ちょっとトイレ行ってくるね！
 > CONTEXT: Commonevents/319/146/Dialogue < UNTRANSLATED
-
+Just gonna use the toilet for a minute!
 > END STRING
 
 > BEGIN STRING
 トイレタイムいい？　したくなっちゃって・・・
 > CONTEXT: Commonevents/319/152/Dialogue < UNTRANSLATED
-
+Is it toilet time? I'm sorta desperate...
 > END STRING
 
 > BEGIN STRING
 トイレ、トイレ！　ちょっと待っててね！
 > CONTEXT: Commonevents/319/164/Dialogue < UNTRANSLATED
-
+Toilet, toilet! Wait right here!
 > END STRING
 
 > BEGIN STRING
 ごめん、けっこうガマンしてたの！　してくる！
 > CONTEXT: Commonevents/319/171/Dialogue < UNTRANSLATED
-
+Sorry, I've kinda held it a lot! Be right back!
 > END STRING
 
 > BEGIN STRING
 た、助かった～！　やっとできるよ～！
 > CONTEXT: Commonevents/319/178/Dialogue < UNTRANSLATED
-
+I-I'm saved~! I can go, at last~!
 > END STRING
 
 > BEGIN STRING
 はっ、はやくトイレ！　オシッコ・・・っ！
 > CONTEXT: Commonevents/319/190/Dialogue < UNTRANSLATED
-
+Qu-quick, I gotta pee!
 > END STRING
 
 > BEGIN STRING
 うー・・・、もっちゃう！　もっちゃう！
 > CONTEXT: Commonevents/319/198/Dialogue < UNTRANSLATED
-
+Uu... gonna leak! Gonna leak!
 > END STRING
 
 > BEGIN STRING
 ちょ、ちょっとオシッコさせて！　もうガマン
 できないよっ！
 > CONTEXT: Commonevents/319/206/Dialogue < UNTRANSLATED
-
+H-hey, let me go pee! I can't hold it any more!
 > END STRING
 
 > BEGIN STRING
 や、やばぃっ、もれ・・・ちゃう・・・っ！！
 > CONTEXT: Commonevents/319/219/Dialogue < UNTRANSLATED
-
+Th-this is bad, I'm gonna... leak...!!
 > END STRING
 
 > BEGIN STRING
 あ、あ、オシッコ出ちゃう！　出ちゃうぅ！
 > CONTEXT: Commonevents/319/227/Dialogue < UNTRANSLATED
-
+Ah, ah, I'm gonna pee! Gonna peee!
 > END STRING
 
 > BEGIN STRING
 あ、あ、あの、あたしっ、オ、オシッコっ！！
 > CONTEXT: Commonevents/319/235/Dialogue < UNTRANSLATED
-
+H-h-hey, I'm gonna go p-pee!!
 > END STRING
 
 > BEGIN STRING
 ・・・っ！　・・・っ！！　・・・っっ！！！！
 > CONTEXT: Commonevents/319/247/Dialogue < UNTRANSLATED
-
+...Nh! ...Nh!! ...Nnh!!!!
 > END STRING
 
 > BEGIN STRING
 あと・・・ちょっと・・・・っ！　ォシッ・・・コ・・・！！
 > CONTEXT: Commonevents/319/255/Dialogue < UNTRANSLATED
-
+Almost... there...! P... pee!!
 > END STRING
 
 > BEGIN STRING
 トイレ・・・っ！　オシッコ・・・っ！　トイレ・・・っ！！
 オシッコ・・・っ！！　オシッコぉ・・・っ！！！
 > CONTEXT: Commonevents/319/263/Dialogue < UNTRANSLATED
-
+Toilet...! Pee...! Toilet...!! Pee...!! Peeee...!!!
 > END STRING
 
 > BEGIN STRING
 はい、おまた～！
 > CONTEXT: Commonevents/320/63/Dialogue < UNTRANSLATED
-
+Okay, back~!
 > END STRING
 
 > BEGIN STRING
 お待たせ～！
 > CONTEXT: Commonevents/320/69/Dialogue < UNTRANSLATED
-
+I'm back~!
 > END STRING
 
 > BEGIN STRING
 終了！　行こっか！
 > CONTEXT: Commonevents/320/76/Dialogue < UNTRANSLATED
-
+Done! Let's go!
 > END STRING
 
 > BEGIN STRING
 ふ～、スッキリ！
 > CONTEXT: Commonevents/320/142/Dialogue < UNTRANSLATED
-
+Fuu~, that felt good!
 > END STRING
 
 > BEGIN STRING
 スッキリしちゃった♪
 > CONTEXT: Commonevents/320/148/Dialogue < UNTRANSLATED
-
+Sweet relief ♪
 > END STRING
 
 > BEGIN STRING
 ほっ、スッキリした～！
 > CONTEXT: Commonevents/320/154/Dialogue < UNTRANSLATED
-
+Hoh, I feel so relieved~!
 > END STRING
 
 > BEGIN STRING
 ふぇ～、危なかった～！
 > CONTEXT: Commonevents/320/231/Dialogue < UNTRANSLATED
-
+Fueh~, that was close~!
 > END STRING
 
 > BEGIN STRING
 はふ～・・・スッキリしたぁ！
 > CONTEXT: Commonevents/320/237/Dialogue < UNTRANSLATED
-
+Hafuu~.... much better!
 > END STRING
 
 > BEGIN STRING
 ほっ・・・もれちゃうかと思ったよ～・・・
 > CONTEXT: Commonevents/320/243/Dialogue < UNTRANSLATED
-
+Hoh... I thought I was gonna wet myself~...
 > END STRING
 
 > BEGIN STRING
 ほ・・・ほんとにもっちゃうとこだったよ～・・・
 > CONTEXT: Commonevents/320/321/Dialogue < UNTRANSLATED
-
+I... I really was about to pee myself~...
 > END STRING
 
 > BEGIN STRING
 はぁ～！　スッキリしたぁ～！！
 > CONTEXT: Commonevents/320/328/Dialogue < UNTRANSLATED
-
+Haaah~! So much better~!!
 > END STRING
 
 > BEGIN STRING
 危うくガマンできなくなるとこだったぁ・・・！
 > CONTEXT: Commonevents/320/335/Dialogue < UNTRANSLATED
-
+I was so close to losing it...!
 > END STRING
 
 > BEGIN STRING
 はぁ・・・はぁ・・・ま、間に合ったぁ～・・・！
 > CONTEXT: Commonevents/320/413/Dialogue < UNTRANSLATED
-
+Haah... haah... j-just made it...~!
 > END STRING
 
 > BEGIN STRING
 め、めちゃくちゃいっぱい出てビックリしたぁ！
 > CONTEXT: Commonevents/320/420/Dialogue < UNTRANSLATED
-
+I-It's super amazing just how much came out!
 > END STRING
 
 > BEGIN STRING
 こ、こんなにガマンしたの、初めてかも・・・！
 > CONTEXT: Commonevents/320/427/Dialogue < UNTRANSLATED
-
+That was probably the first time I ever held it
+that much...!
 > END STRING
 
 > BEGIN STRING
